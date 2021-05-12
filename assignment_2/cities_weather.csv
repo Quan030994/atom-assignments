@@ -1,0 +1,8 @@
+lon,lat,id,main,description,temp,humidity,name
+5.5054,50.4739,801,Clouds,few clouds,286.19,81,Vien
+105.8412,21.0245,501,Rain,moderate rain,301.07,86,Hanoi
+13.4105,52.5244,803,Clouds,broken clouds,287.55,78,Berlin
+-0.1257,51.5085,804,Clouds,overcast clouds,288.64,47,London
+-75.4557,43.2128,803,Clouds,broken clouds,286.19,55,Rome
+37.6156,55.7522,500,Rain,light rain,286.63,91,Moscow
+2.3488,48.8534,803,Clouds,broken clouds,287.81,62,Paris

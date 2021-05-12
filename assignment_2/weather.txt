@@ -1,0 +1,5 @@
+------------Moscow------------
+Temperature: 286.81
+Humidity: 91
+Pressure: 1019
+Weather Report: light rain
